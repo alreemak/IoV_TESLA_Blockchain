@@ -44,9 +44,9 @@ Ensure that the necessary PEM files for the server and client keys are present i
 ### File Structure
 The script requires the following PEM files for cryptographic operations:
 
-private_key_server.pem - Server's private key.
-public_key_server.pem - Server's public key.
-private_key_client1.pem - Vehicle 1's private key.
-public_key_client1.pem - Vehicle 1's public key.
-.....
+- private_key_server.pem - Server's private key.
+- public_key_server.pem - Server's public key.
+- private_key_client1.pem - Vehicle 1's private key.
+- public_key_client1.pem - Vehicle 1's public key.
+- .....
 
