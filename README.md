@@ -31,7 +31,9 @@ To run the `TESLABC.py` script, please ensure that the following Python librarie
 - `statistics`
 
 These can be installed using `pip`:
+```bash
 pip install cryptography base64 hashlib datetime socket struct threading os json pickle statistics
+```
 
 ### Setup and Execution
 
