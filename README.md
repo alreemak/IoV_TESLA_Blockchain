@@ -38,7 +38,7 @@ pip install cryptography base64 hashlib datetime socket struct threading os json
 To use this script, first clone the repository and navigate to the directory containing `TESLABC.py`. You can run the script using Python 3:
 
 ```bash
-python TESLABC.py ```
+python TESLABC.py `
 
 
 Ensure that the necessary PEM files for the server and client keys are present in the same directory as the TESLABC.py script.
