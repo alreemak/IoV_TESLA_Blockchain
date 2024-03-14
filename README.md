@@ -4,7 +4,7 @@ This repository contains the implementation of a blockchain-based solution desig
 
 ## Overview
 
-`TESLABC.py` is the core script that sets up the blockchain, including key generation, block creation, and the blockchain itself.
+`TESLA_BC.py` is the core script that sets up the blockchain, including key generation, block creation, and the blockchain itself.
 
 ### Features
 
@@ -16,7 +16,7 @@ This repository contains the implementation of a blockchain-based solution desig
 
 ### Prerequisites
 
-To run the `TESLABC.py` script, please ensure that the following Python libraries are installed:
+To run the `TESLA_BC.py` script, please ensure that the following Python libraries are installed:
 
 - `cryptography`
 - `base64`
@@ -40,7 +40,7 @@ pip install cryptography base64 hashlib datetime socket struct threading os json
 To use this script, first clone the repository and navigate to the directory containing `TESLABC.py`. You can run the script using Python 3:
 
 ```bash
-python TESLABC.py
+python TESLA_BC.py
 ```
 
 Ensure that the necessary PEM files for the server and client keys are present in the same directory as the TESLABC.py script.
